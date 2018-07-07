@@ -4,46 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/edu/mum/controller/AuthenticationController.java" line="30" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34b39c4a-7157-4b20-9c5c-e97919923da1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/configuration/DeploymentDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/configuration/Dispatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/controller/AdviceController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/controller/AuthenticationController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/controller/IndexController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/controller/LogoutController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/domain/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/repository/DataFacade.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/repositoryimpl/Database.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/repositoryimpl/TestDataImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/configuration/DeploymentDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/configuration/Dispatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/controller/AdviceController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/controller/AuthenticationController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/controller/IndexController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/controller/LogoutController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/domain/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/repository/DataFacade.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/repositoryimpl/Database.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/repositoryimpl/TestDataImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/jsp/advice.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/jsp/display.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/jsp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/resources/main.css" />
-    </list>
+    <list default="true" id="34b39c4a-7157-4b20-9c5c-e97919923da1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdviceController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AdviceController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/controller/AdviceController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="254">
+              <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,6 +105,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDataImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/repositoryimpl/TestDataImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -1219,7 +1190,7 @@
       <option name="presentableId" value="Default" />
       <updated>1530247614055</updated>
       <workItem from="1530247621742" duration="6728000" />
-      <workItem from="1530935391039" duration="4628000" />
+      <workItem from="1530935391039" duration="4852000" />
     </task>
     <task id="LOCAL-00001" summary="Upgrade Starbucks. &#10;a.&#9;Make the user a @SessionAttributes. &#10;b.&#9;Show the user.name on Advice &amp; Display pages.&#10;c.&#9;On start page show Advice ONLY if user is logged in. That means,the user exists. &#10;d.&#9;Implement a Logout function that removes @SessionAttributes.">
       <created>1530940163814</created>
@@ -1232,7 +1203,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11356000" />
+    <option name="totallyTimeSpent" value="11580000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1446,17 +1417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/repositoryimpl/TestDataImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#692#693#0" expanded="false" />
-            <element signature="e#734#735#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/configuration/DeploymentDescriptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1559,11 +1519,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/controller/AdviceController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="254">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/repositoryimpl/TestDataImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
