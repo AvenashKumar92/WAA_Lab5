@@ -4,29 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/edu/mum/controller/AuthenticationController.java" line="30" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34b39c4a-7157-4b20-9c5c-e97919923da1" name="Default" comment="Upgrade Starbucks. &#10;a.&#9;Make the user a @SessionAttributes. &#10;b.&#9;Show the user.name on Advice &amp; Display pages.&#10;c.&#9;On start page show Advice ONLY if user is logged in. That means,the user exists. &#10;d.&#9;Implement a Logout function that removes @SessionAttributes.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/configuration/DeploymentDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/configuration/Dispatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/controller/CalculatorController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/controller/IndexController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/domain/Calculator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/classes/edu/mum/configuration/DeploymentDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/classes/edu/mum/configuration/Dispatcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/classes/edu/mum/controller/CalculatorController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/classes/edu/mum/controller/IndexController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/classes/edu/mum/domain/Calculator.class" />
+    <list default="true" id="34b39c4a-7157-4b20-9c5c-e97919923da1" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT.war" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/configuration/DeploymentDescriptor.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/classes/edu/mum/configuration/Dispatcher.class" />
@@ -59,48 +37,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/repository/DataFacade.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/repositoryimpl/Database.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/edu/mum/repositoryimpl/TestDataImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../~$Lab 5.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/jsp/calculator.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/jsp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/WEB-INF/jsp/result.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CalculatorSpringMVC/target/CalculatorSpringMVC-1.0-SNAPSHOT/resources/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/StarBuck_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/StarBuck_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StarBuck.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/configuration/DeploymentDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/configuration/Dispatcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/controller/AdviceController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/controller/AuthenticationController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/controller/IndexController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/controller/LogoutController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/domain/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/repository/DataFacade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/repositoryimpl/Database.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/mum/repositoryimpl/TestDataImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/advice.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/display.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/main.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/jsp/advice.jsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/StarBuck-1.0-SNAPSHOT/WEB-INF/jsp/display.jsp" />
@@ -1282,12 +1219,20 @@
       <option name="presentableId" value="Default" />
       <updated>1530247614055</updated>
       <workItem from="1530247621742" duration="6728000" />
-      <workItem from="1530935391039" duration="4598000" />
+      <workItem from="1530935391039" duration="4628000" />
     </task>
+    <task id="LOCAL-00001" summary="Upgrade Starbucks. &#10;a.&#9;Make the user a @SessionAttributes. &#10;b.&#9;Show the user.name on Advice &amp; Display pages.&#10;c.&#9;On start page show Advice ONLY if user is logged in. That means,the user exists. &#10;d.&#9;Implement a Logout function that removes @SessionAttributes.">
+      <created>1530940163814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530940163814</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11326000" />
+    <option name="totallyTimeSpent" value="11356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
